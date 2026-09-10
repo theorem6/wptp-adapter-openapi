@@ -2,7 +2,7 @@
 
 ## Purpose
 
-**D3 source adapter (first profile):** lift **OpenAPI 3** path items into [WPTP IR v0](https://github.com/theorem6/wptp-ir) request nodes. **Bronze** grade in the [compatibility matrix](https://github.com/theorem6/wptp-matrix) — structural routes only, no replay yet.
+**D3 source adapter (first profile):** lift **OpenAPI 3** path items into [WPTP IR v0](https://github.com/AgenticOp-io/wptp-ir) request nodes. **Bronze** grade in the [compatibility matrix](https://github.com/AgenticOp-io/wptp-matrix) — structural routes only, no replay yet.
 
 ## Public API
 
@@ -28,5 +28,5 @@ npm test
 
 ## Related
 
-- [WPTP global scope](https://github.com/theorem6/chrysalis/blob/main/docs/WPTP-GLOBAL-SCOPE.md)
-- [wptp-matrix edge `openapi-to-wptp-ir`](https://github.com/theorem6/wptp-matrix/blob/main/data/matrix.v0.json)
+- [WPTP global scope](https://github.com/AgenticOp-io/chrysalis/blob/main/docs/WPTP-GLOBAL-SCOPE.md)
+- [wptp-matrix edge `openapi-to-wptp-ir`](https://github.com/AgenticOp-io/wptp-matrix/blob/main/data/matrix.v0.json)
